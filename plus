@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-## SPDX-FileCopyrightText: 2022 Izumiya Takahiro<s21c1013hv@s.chibakoudai.jp>
-## SPDX-License-Identifier: BSD-3-Clause
-##!/bin/bash
+# SPDX-FileCopyrightText: 2022 Izumiya Takahiro<s21c1013hv@s.chibakoudai.jp>
+# SPDX-License-Identifier: BSD-3-Clause
+
 
 import sys
 
