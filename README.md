@@ -1,6 +1,6 @@
  robosys2022_plus
 # plus コマンド
-![test] (https://github.com/takahiro1000/robosys2022_plus/actions/workflows/test)
+![test] (https://github.com/takahiro1000/robosys2022_plus/actions/workflows/test.yml/badge.svg)
 
 
 
