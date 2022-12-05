@@ -3,16 +3,17 @@
 ![test](https://github.com/takahiro1000/robosys2022_plus/actions/workflows/test.yml/badge.svg)
 
 
-
-
-標準入力から読み込んだ数字を足す。
+機能説明
+```
+seq の横no書かれた数字まで一から足し合わせる。
+```
 
 動作確認
 ```
 seq 5 |  ./plus
 = 15
 ```
-1から5までの数字が足されている。
+* 1から5までの数字が足されている。
 
 ##　必要なソフトウェア
 * Python 3.7~3.10
