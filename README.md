@@ -1,7 +1,8 @@
  robosys2022_plus
 # plus コマンド
 ![test](https://github.com/takahiro1000/robosys2022_plus/actions/workflows/test.yml/badge.svg)
-* ロボットシステム学の理解を深める練習用のリポジトリです。 
+
+ロボットシステム学の理解を深める練習用のリポジトリです。 
 
 インストール
 ```
