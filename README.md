@@ -7,14 +7,13 @@
 ## インストール
 ```
 git clone https://github.com/takahiro1000/robosys2022_plus.git
-を入力
 cd robosys2022_plus
 ```
 
 ## 機能説明
-```
-seq の横の書かれた数字まで一から足し合わせる。
-```
+
+* seq の横の書かれた数字まで一から足し合わせる。
+
 
 ## 動作確認
 ```
