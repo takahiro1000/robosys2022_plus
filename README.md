@@ -1,7 +1,6 @@
 ## robosys2022_plus
-
 これは、ロボットシステム学の理解を深める練習用のリポジトリです。
-# plus コマンド
+## plus コマンド
 ![test](https://github.com/takahiro1000/robosys2022_plus/actions/workflows/test.yml/badge.svg)
  
 ## インストール
