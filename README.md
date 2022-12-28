@@ -1,6 +1,6 @@
 ## robosys2022_plus
 
-これは、ロボットシステム学の理解を深める練習用のリポジトリです。
+ これは、ロボットシステム学の理解を深める練習用のリポジトリです。
 
 ## plus コマンド
 ![test](https://github.com/takahiro1000/robosys2022_plus/actions/workflows/test.yml/badge.svg)
@@ -14,7 +14,6 @@ cd robosys2022_plus
 ## 機能説明
 
  seq の横の書かれた数字まで一から足し合わせる。
-
 
 ## 動作確認
 ```
